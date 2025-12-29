@@ -4,7 +4,8 @@ A modern, responsive weather dashboard built using **vanilla JavaScript** that d
 The app automatically detects the user's location, supports offline mode, and provides an experience similar to mobile weather apps.
 
 ## 🚀 Live Demo
-👉 (will provide the link soon!)
+check it out here:-
+https://695258d887b1cc92cd2181d1--musical-brigadeiros-bf360a.netlify.app/
 
 
 ## ✨ Features
@@ -20,11 +21,10 @@ The app automatically detects the user's location, supports offline mode, and pr
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- **OpenWeather API**
-- **Browser APIs** (Geolocation, Online/Offline Events)
+- Vanilla JavaScript (ES6 modules)
+- CSS3 (Responsive + Dynamic UI)
+- OpenWeather API
+- Netlify Deployment
 
 ## 🌤️ Weather Icons
 
@@ -61,9 +61,12 @@ API keys are required to run the project locally.
 > This is acceptable for public APIs like OpenWeather.
 
 ## 📸 Screenshots
-
-(will be adding soon:)
-
+ 1. It will ask for location permission (current location's weather):
+    ![Location permission](home.png)
+ 2. Search city:
+    ![New York city weather](search.png)
+ 3. Hourly forecast
+    <video controls src="assets/weather-dashboard.mp4" title="Hourly forecast">New York city</video>
 
 
 ## 🙌 Acknowledgements
