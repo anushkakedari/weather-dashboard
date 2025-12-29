@@ -65,11 +65,12 @@ API keys are required to run the project locally.
 
     <img width="700" height="700" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/6ba050f7-1a96-40ea-a654-5784b8bdae51" />
     ![Location permission](home.png)
- 3. Search city:
+ 2. Search city:
 
     <img width="700" height="700" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/873046b9-f6b8-4f2d-8227-50f4012d6653" />
     ![New York city weather](search.png)
- 5. Hourly forecast
+ 3. Hourly forecast
+    
     <img width="700" height="700" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/99a62903-1045-439b-b981-fe8e009ab5f2" />
 
     <video controls src="assets/weather-dashboard.mp4" title="Hourly forecast">New York city</video>
