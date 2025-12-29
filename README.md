@@ -1,4 +1,4 @@
-# 🌦️ Weather Dashboard
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/6ba050f7-1a96-40ea-a654-5784b8bdae51" /># 🌦️ Weather Dashboard
 
 A modern, responsive weather dashboard built using **vanilla JavaScript** that displays real-time weather information using the **OpenWeather API**.  
 The app automatically detects the user's location, supports offline mode, and provides an experience similar to mobile weather apps.
@@ -65,7 +65,7 @@ API keys are required to run the project locally.
     ![Location permission](home.png)
  2. Search city:
     ![New York city weather](search.png)
- 3. Hourly forecast
+ 4. Hourly forecast
     <video controls src="assets/weather-dashboard.mp4" title="Hourly forecast">New York city</video>
 
 
