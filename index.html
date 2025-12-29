@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Weather Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<body>
+  <div class="weather-app">
+
+    <header class="search-header">
+      <input id="city-input" placeholder="Search city" />
+      <button id="search-btn">🔍</button>
+    </header>
+    <p id="offline-msg" class="offline hidden">
+        You’re offline — showing last saved weather
+    </p>
+
+
+    <main class="weather-main">
+      <p id="city-name">—</p>
+      <img id="weather-icon" />
+      <h1 id="temperature">—°</h1>
+      <p id="condition">—</p>
+      
+
+      <div class="info-cards">
+        <div class="card">
+          <span>Humidity</span>
+          <p id="humidity">—%</p>
+        </div>
+        <div class="card">
+          <span>Wind</span>
+          <p id="wind">—</p>
+        </div>
+        <div class="card">
+          <span>Feels Like</span>
+          <p id="feels-like">—°</p>
+        </div>
+      </div>
+
+      <p id="status"></p>
+    </main>
+<section class="hourly-section">
+  <h3 class="section-title">Hourly Forecast</h3>
+
+  <div class="hourly-slider" id="hourly-slider">
+    <!-- Hourly cards injected by JS -->
+  </div>
+</section>
+<div class="unit-toggle">
+  <button id="unit-btn">°F</button>
+</div>
+
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+
+
+  <!-- <div class="app">
+    <h1> Weather Dashboard</h1>
+
+    <form id="search-form">
+      <input 
+        type="text" 
+        id="city-input" 
+        placeholder="Enter city name"
+        required
+      />
+      <button type="submit">Search</button>
+    </form>
+
+    <div id="status"></div>
+
+    <div id="weather-card" class="hidden">
+      <h2 id="city-name"></h2>
+      <p id="temperature"></p>
+      <p id="condition"></p>
+      <p id="humidity"></p>
+      <p id="wind"></p>
+    </div>
+  </div> -->
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
