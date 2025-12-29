@@ -62,7 +62,7 @@ API keys are required to run the project locally.
 
 ## 📸 Screenshots
  1. It will ask for location permission (current location's weather):
-    <img width="100" height="108" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/6ba050f7-1a96-40ea-a654-5784b8bdae51" />
+    <img width="400" height="400" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/6ba050f7-1a96-40ea-a654-5784b8bdae51" />
     ![Location permission](home.png)
  3. Search city:
     ![New York city weather](search.png)
