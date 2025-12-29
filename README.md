@@ -70,6 +70,8 @@ API keys are required to run the project locally.
     <img width="700" height="700" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/873046b9-f6b8-4f2d-8227-50f4012d6653" />
     ![New York city weather](search.png)
  5. Hourly forecast
+    <img width="700" height="700" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/99a62903-1045-439b-b981-fe8e009ab5f2" />
+
     <video controls src="assets/weather-dashboard.mp4" title="Hourly forecast">New York city</video>
 
 
