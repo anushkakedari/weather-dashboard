@@ -41,7 +41,7 @@ This project uses **official OpenWeather weather icons**, which are dynamically 
 
 
 ## 📂 Project Structure
-<img width="500" height="500" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/fe0187d3-f2ef-4f08-9370-811f5a910b0a" />
+<img width="300" height="300" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/fe0187d3-f2ef-4f08-9370-811f5a910b0a" />
 
 
 ## 🔐 API Key Note
